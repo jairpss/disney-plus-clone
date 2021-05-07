@@ -89,6 +89,7 @@ const Wrap = styled.div`
     img {
       width: 100%;
       height: 100%;
+      
     }
     &:hover {
       padding: 0;
