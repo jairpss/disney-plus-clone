@@ -190,9 +190,9 @@ const NavMenu = styled.div`
         cursor: pointer;
     }
   }
-  /* @media (max-width: 768px) {
+  @media (max-width: 768px) {
     display: none;
-  } */
+  }
 `;
 
 const Login = styled.a`
